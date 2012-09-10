@@ -1,0 +1,33 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: CrossOcean - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Youg\AppData\Local\Temp\RSP4615.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:no /pdb:"Release/CrossOcean.pdb" /machine:I386 /out:"Release/CrossOcean.exe" 
+.\Release\CrossOcean.obj
+.\Release\CrossOceanDoc.obj
+.\Release\CrossOceanView.obj
+.\Release\Fish.obj
+.\Release\FreeFish.obj
+.\Release\GAMESET.obj
+.\Release\MainFrm.obj
+.\Release\MyFish.obj
+.\Release\StdAfx.obj
+.\Release\CrossOcean.res
+]
+Creating command line "link.exe @C:\Users\Youg\AppData\Local\Temp\RSP4615.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+CrossOcean.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
